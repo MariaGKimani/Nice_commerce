@@ -104,9 +104,16 @@ nav a{
     display: flex;
     gap: 25px;
 }
-.last1,
-.last2,
+.last1{
+    border-top: 2px solid #444;
+    border-color: rgb(80, 207, 164);
+
+}
+.last2{
+    border-top: 2px solid #444;
+    border-color: rgba(138, 105, 44, 0.347);
+}
 .last3{
     border-top: 2px solid #444;
-
+    border-color: rgba(0, 128, 0, 0.302);
 }
